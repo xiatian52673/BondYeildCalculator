@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2ECAFDBA-8799-49A6-9DBE-73E0E1E632EE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BondYieldCalculator/Calculator.cs">
+    <Files>
+      <File FileName="BondYieldCalculator/Program.cs" Line="9" Column="74" />
+      <File FileName="BondYieldCalculator/Calculator.cs" Line="6" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BondYieldCalculator" expanded="True">
+            <Node name="BondYieldCalculator" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Calculator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BondYieldCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -3,3 +3,8 @@
 /Users/tian.x/Projects/BondYieldCalculator/BondYieldCalculator/obj/Debug/BondYieldCalculator.csprojAssemblyReference.cache
 /Users/tian.x/Projects/BondYieldCalculator/BondYieldCalculator/obj/Debug/BondYieldCalculator.exe
 /Users/tian.x/Projects/BondYieldCalculator/BondYieldCalculator/obj/Debug/BondYieldCalculator.pdb
+/Users/tian.x/Projects/BondYeildCalculator/BondYieldCalculator/bin/Debug/BondYieldCalculator.exe
+/Users/tian.x/Projects/BondYeildCalculator/BondYieldCalculator/bin/Debug/BondYieldCalculator.pdb
+/Users/tian.x/Projects/BondYeildCalculator/BondYieldCalculator/obj/Debug/BondYieldCalculator.csprojAssemblyReference.cache
+/Users/tian.x/Projects/BondYeildCalculator/BondYieldCalculator/obj/Debug/BondYieldCalculator.exe
+/Users/tian.x/Projects/BondYeildCalculator/BondYieldCalculator/obj/Debug/BondYieldCalculator.pdb
