@@ -11,7 +11,7 @@ namespace BondYieldCalculator
                 price += payment / (Math.Pow(1 + rate, year));
             }
             price += face / (Math.Pow(1 + rate, years));
-            return price;
+            return Math.Floor(price * 10000000) / 10000000;
         }
         public double CalcYield(double coupon, int years, double face, double price)
         {
@@ -32,7 +32,7 @@ namespace BondYieldCalculator
                 }
                 epsilon /= 2;
             }
-            return rate;
+            return Math.Floor(rate * 10000000) / 10000000;
         }
 
     }
