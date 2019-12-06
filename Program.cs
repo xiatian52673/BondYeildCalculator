@@ -53,10 +53,10 @@ namespace BondYieldCalculator
                 Console.Write("Press 'n' and Enter to close the app, or press any other key and Enter to continue: ");
                 endApp |= Console.ReadLine() == "n";
 
-                Console.WriteLine("\n"); 
+                Console.WriteLine("\n");
             }
             return;
-            
+
 
         }
     }

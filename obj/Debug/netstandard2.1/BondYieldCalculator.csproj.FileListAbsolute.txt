@@ -1,0 +1,3 @@
+/Users/tian.x/Desktop/BondYieldCalculator/obj/Debug/netstandard2.1/BondYieldCalculator.csprojAssemblyReference.cache
+/Users/tian.x/Desktop/BondYieldCalculator/obj/Debug/netstandard2.1/BondYieldCalculator.AssemblyInfoInputs.cache
+/Users/tian.x/Desktop/BondYieldCalculator/obj/Debug/netstandard2.1/BondYieldCalculator.AssemblyInfo.cs

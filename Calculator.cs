@@ -1,7 +1,7 @@
 ﻿using System;
 namespace BondYieldCalculator
 {
-    class Calculator
+    public class Calculator
     {
         public double CalcPrice(double coupon, int years, double face, double rate)
         {
@@ -13,6 +13,7 @@ namespace BondYieldCalculator
             price += face / (Math.Pow(1 + rate, years));
             return Math.Floor(price * 10000000) / 10000000;
         }
+
         public double CalcYield(double coupon, int years, double face, double price)
         {
             double payment = coupon * face, epsilon = 1;
@@ -42,6 +43,9 @@ namespace BondYieldCalculator
     //    {
     //        Calculator c = new Calculator();
 
+    //        Console.WriteLine(c.CalcPrice(0.10, 5, 1000, 0.15));
+    //        Console.WriteLine(c.CalcYield(0.10, 5, 1000, 832.4));
+
     //        Console.WriteLine(c.CalcPrice(0.15, 5, 1000, 0.15));
     //        Console.WriteLine(c.CalcYield(0.10, 5, 1000, 1000));
 
@@ -56,4 +60,3 @@ namespace BondYieldCalculator
     //}
 
 }
-
