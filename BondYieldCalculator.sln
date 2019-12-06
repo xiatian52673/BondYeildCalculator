@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BondYieldCalculator", "BondYieldCalculator\BondYieldCalculator.csproj", "{2ECAFDBA-8799-49A6-9DBE-73E0E1E632EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ECAFDBA-8799-49A6-9DBE-73E0E1E632EE}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{2ECAFDBA-8799-49A6-9DBE-73E0E1E632EE}.Debug|anycpu.Build.0 = Debug|anycpu
+		{2ECAFDBA-8799-49A6-9DBE-73E0E1E632EE}.Release|anycpu.ActiveCfg = Release|anycpu
+		{2ECAFDBA-8799-49A6-9DBE-73E0E1E632EE}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
