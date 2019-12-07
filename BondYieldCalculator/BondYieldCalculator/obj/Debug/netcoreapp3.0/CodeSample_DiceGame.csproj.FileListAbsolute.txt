@@ -1,0 +1,11 @@
+/Users/tian.x/Downloads/DiceGame-e773941c80304f003713a1228466ea1fcd54e0a8/CodeSample_DiceGame/CodeSample_DiceGame/bin/Debug/netcoreapp3.0/CodeSample_DiceGame
+/Users/tian.x/Downloads/DiceGame-e773941c80304f003713a1228466ea1fcd54e0a8/CodeSample_DiceGame/CodeSample_DiceGame/bin/Debug/netcoreapp3.0/CodeSample_DiceGame.deps.json
+/Users/tian.x/Downloads/DiceGame-e773941c80304f003713a1228466ea1fcd54e0a8/CodeSample_DiceGame/CodeSample_DiceGame/bin/Debug/netcoreapp3.0/CodeSample_DiceGame.runtimeconfig.json
+/Users/tian.x/Downloads/DiceGame-e773941c80304f003713a1228466ea1fcd54e0a8/CodeSample_DiceGame/CodeSample_DiceGame/bin/Debug/netcoreapp3.0/CodeSample_DiceGame.runtimeconfig.dev.json
+/Users/tian.x/Downloads/DiceGame-e773941c80304f003713a1228466ea1fcd54e0a8/CodeSample_DiceGame/CodeSample_DiceGame/bin/Debug/netcoreapp3.0/CodeSample_DiceGame.dll
+/Users/tian.x/Downloads/DiceGame-e773941c80304f003713a1228466ea1fcd54e0a8/CodeSample_DiceGame/CodeSample_DiceGame/bin/Debug/netcoreapp3.0/CodeSample_DiceGame.pdb
+/Users/tian.x/Downloads/DiceGame-e773941c80304f003713a1228466ea1fcd54e0a8/CodeSample_DiceGame/CodeSample_DiceGame/obj/Debug/netcoreapp3.0/CodeSample_DiceGame.csprojAssemblyReference.cache
+/Users/tian.x/Downloads/DiceGame-e773941c80304f003713a1228466ea1fcd54e0a8/CodeSample_DiceGame/CodeSample_DiceGame/obj/Debug/netcoreapp3.0/CodeSample_DiceGame.AssemblyInfoInputs.cache
+/Users/tian.x/Downloads/DiceGame-e773941c80304f003713a1228466ea1fcd54e0a8/CodeSample_DiceGame/CodeSample_DiceGame/obj/Debug/netcoreapp3.0/CodeSample_DiceGame.AssemblyInfo.cs
+/Users/tian.x/Downloads/DiceGame-e773941c80304f003713a1228466ea1fcd54e0a8/CodeSample_DiceGame/CodeSample_DiceGame/obj/Debug/netcoreapp3.0/CodeSample_DiceGame.dll
+/Users/tian.x/Downloads/DiceGame-e773941c80304f003713a1228466ea1fcd54e0a8/CodeSample_DiceGame/CodeSample_DiceGame/obj/Debug/netcoreapp3.0/CodeSample_DiceGame.pdb

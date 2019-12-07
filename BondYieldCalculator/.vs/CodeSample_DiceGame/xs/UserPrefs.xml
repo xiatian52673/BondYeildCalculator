@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{31698D6C-EED2-4B20-9B89-F519752A1A29}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodeSample_DiceGame/Scorer.cs">
+    <Files>
+      <File FileName="CodeSample_DiceGameTests/ScorerTests.cs" Line="16" Column="23" />
+      <File FileName="CodeSample_DiceGame/Program.cs" />
+      <File FileName="CodeSample_DiceGame/Scorer.cs" Line="63" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodeSample_DiceGame" expanded="True">
+            <Node name="CodeSample_DiceGame" expanded="True">
+              <Node name="Scorer.cs" selected="True" />
+            </Node>
+            <Node name="CodeSample_DiceGameTests" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CodeSample_DiceGame" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BondYieldCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

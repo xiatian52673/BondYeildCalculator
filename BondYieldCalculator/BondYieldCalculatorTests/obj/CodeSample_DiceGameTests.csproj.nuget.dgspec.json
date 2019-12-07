@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tian.x/Downloads/DiceGame-e773941c80304f003713a1228466ea1fcd54e0a8/CodeSample_DiceGame/CodeSample_DiceGameTests/CodeSample_DiceGameTests.csproj": {}
+  },
+  "projects": {
+    "/Users/tian.x/Downloads/DiceGame-e773941c80304f003713a1228466ea1fcd54e0a8/CodeSample_DiceGame/CodeSample_DiceGameTests/CodeSample_DiceGameTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tian.x/Downloads/DiceGame-e773941c80304f003713a1228466ea1fcd54e0a8/CodeSample_DiceGame/CodeSample_DiceGameTests/CodeSample_DiceGameTests.csproj",
+        "projectName": "CodeSample_DiceGameTests",
+        "projectPath": "/Users/tian.x/Downloads/DiceGame-e773941c80304f003713a1228466ea1fcd54e0a8/CodeSample_DiceGame/CodeSample_DiceGameTests/CodeSample_DiceGameTests.csproj",
+        "packagesPath": "/Users/tian.x/.nuget/packages/",
+        "outputPath": "/Users/tian.x/Downloads/DiceGame-e773941c80304f003713a1228466ea1fcd54e0a8/CodeSample_DiceGame/CodeSample_DiceGameTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tian.x/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.0.0, )"
+            },
+            "TestToolsToXunitProxy": {
+              "target": "Package",
+              "version": "[0.0.4, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
