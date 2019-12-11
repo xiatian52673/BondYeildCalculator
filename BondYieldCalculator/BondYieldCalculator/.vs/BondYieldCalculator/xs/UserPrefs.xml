@@ -1,10 +1,5 @@
 ﻿<Properties StartupConfiguration="{FE03B1FE-D316-4687-8DCF-43D6C1054CE4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator.cs">
-    <Files>
-      <File FileName="Calculator.cs" Line="23" Column="25" />
-      <File FileName="../BondYieldCalculatorTests/CalculatorTest.cs" />
-      <File FileName="Program.cs" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">

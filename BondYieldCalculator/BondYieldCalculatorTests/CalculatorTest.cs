@@ -1,4 +1,11 @@
-﻿// Unit tests built for Calculator.cs
+﻿// Copyright (c) 2019 All Rights Reserved
+// FileName: CalculatorTest.cs
+// FileType: C# Source file
+// Author : Tian Xia
+// Created On : 12/5/2019
+// Last Modified On : 12/10/2019
+// Description : Unit tests built for Calculator.cs
+
 using Xunit;
 using BondYieldCalculator;
 

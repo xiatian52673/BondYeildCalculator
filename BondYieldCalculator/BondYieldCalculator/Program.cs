@@ -1,4 +1,12 @@
-﻿//Main console application program which does three things:
+﻿// Copyright (c) 2019 All Rights Reserved
+// FileName: Program.cs
+// FileType: C# Source file
+// Author : Tian Xia
+// Created On : 12/5/2019
+// Last Modified On : 12/10/2019
+// Description : Console Application Calculating Bond Yield
+
+//Main console application program which does three things:
 //1. Takes the coupon, the time, the face, and the rate, calculate bond price;
 //2. Takes the coupon, the time, the face, and the price, calculate bond yield. i.e. return the rate;
 //3. Keep track of, and print out, the amount of time it takes the program to calculate the price and yield.
