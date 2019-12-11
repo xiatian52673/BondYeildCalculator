@@ -8,4 +8,4 @@ In addition, your calculator can also take as inputs, the coupon, the time, the 
 The program also keep track of, and print out, the amount of time it takes to calculate the price and yield.
 
 ## How to run it
-Open this project in Visual Studio, open `/BondYeildCalculator/BondYieldCalculator/BondYieldCalculator/Program.cs`, click the run button.
+Open this project in Visual Studio, open `/BondYeildCalculator/BondYieldCalculator/BondYieldCalculator/Program.cs` in editor, click the run button. You will see the console application. Please follow the instructions to complete the computation.
